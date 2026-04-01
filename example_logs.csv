@@ -1,0 +1,11 @@
+OS,Platform,CPU Cores,RAM,GPU Vendor,GPU,Resolution,Browser,IP,Continent,Country,Region,City,ISP,Organization,Latitude,Longitude,Accuracy,Altitude,Direction,Speed
+Windows,Windows 10,8,16 GB,NVIDIA,GeForce RTX 3080,1920x1080,Chrome,192.168.1.1,North America,United States,California,Los Angeles,Comcast Cable,Comcast,34.0522,-118.2437,100,50,90,0
+Linux,Ubuntu 20.04,4,8 GB,Intel,Integrated HD Graphics 620,1366x768,Firefox,10.0.0.5,Europe,Spain,Madrid,Comunidad de Madrid,Telefonica de Espana,Telefonica,40.4168,-3.7038,50,Not Available,0,0
+Windows,Windows 11,16,32 GB,AMD,Radeon RX 6800,2560x1440,Edge,172.16.0.10,North America,Canada,Ontario,Toronto,Rogers Communications,Rogers,43.6532,-79.3832,200,100,45,25
+macOS,macOS Ventura,6,16 GB,Apple,M1 Max,1440x900,Safari,192.168.0.100,North America,United States,New York,New York,Verizon,Verizon,40.7128,-74.0060,150,Not Available,180,0
+Android,Android 12,8,6 GB,Qualcomm,Adreno 660,1080x2400,Chrome Mobile,100.64.1.2,South America,Brazil,Sao Paulo,Sao Paulo,Vivo,Vivo,-23.5505,-46.6333,300,Not Available,0,5
+Windows,Windows 10,4,8 GB,Not Available,Not Available,1280x720,Chrome,8.8.8.8,Europe,Germany,Bavaria,Munich,Deutsche Telekom,DTAG,48.1351,11.5820,75,200,270,0
+Linux,Fedora 37,12,64 GB,NVIDIA,RTX 4090,3840x2160,Firefox,192.168.1.50,Asia,Japan,Tokyo,Tokyo,NTT,NTT,35.6895,139.6917,25,Not Available,90,0
+Windows,Windows 7,2,4 GB,Intel,UHD Graphics 630,1024x768,IE,203.0.113.1,Oceania,Australia,New South Wales,Sydney,Telstra,Telstra,-33.8688,151.2093,400,Not Available,0,0
+macOS,macOS Monterey,8,32 GB,AMD,Radeon Pro 5500M,1680x1050,Chrome,10.0.0.1,Europe,United Kingdom,England,London,BT,Broadband,-51.5074,-0.1278,100,150,225,10
+Linux,Debian 11,6,16 GB,NVIDIA,GTX 1660 Ti,1920x1080,Chromium,172.16.254.1,South America,Argentina,Buenos Aires,CABA,Personal,Personal,-34.6037,-58.3816,80,Not Available,135,0
